@@ -1,4 +1,4 @@
-# Leetcode
+# Data Structure and Algorithms
 for solving Leetcode problem
 
 ## Explanations:
