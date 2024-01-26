@@ -1,4 +1,4 @@
-#Tìm successor của một cây, nếu có 1 child thì + 1 còn không thì + 0
+
 def height_bst(root):
     """root là một kiểu binary search tree"""
     if root is None:
