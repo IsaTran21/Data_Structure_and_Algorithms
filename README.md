@@ -8,4 +8,5 @@ for solving Leetcode problem
 <br> Single_linked_list.py: need to be updated
 <br> Double_linked_list.py: implement double linked list in Python
 <br> Queue_and_stack.py: implement Queue anđ Stack in Python using Double_linked_list module above
+<br> BST: binary search tree
 
